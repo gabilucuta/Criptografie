@@ -1,0 +1,8 @@
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\bin\Debug\Caesar1.exe.config
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\bin\Debug\Caesar1.exe
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\bin\Debug\Caesar1.pdb
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\obj\Debug\Caesar1.csproj.AssemblyReference.cache
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\obj\Debug\Caesar1.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\obj\Debug\Caesar1.csproj.CoreCompileInputs.cache
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\obj\Debug\Caesar1.exe
+D:\Facultate\Criptografie\Cifrul Caesar\Caesar1\obj\Debug\Caesar1.pdb
