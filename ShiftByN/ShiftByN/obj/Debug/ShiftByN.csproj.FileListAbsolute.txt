@@ -1,0 +1,8 @@
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\bin\Debug\ShiftByN.exe.config
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\bin\Debug\ShiftByN.exe
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\bin\Debug\ShiftByN.pdb
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\obj\Debug\ShiftByN.csproj.AssemblyReference.cache
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\obj\Debug\ShiftByN.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\obj\Debug\ShiftByN.csproj.CoreCompileInputs.cache
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\obj\Debug\ShiftByN.exe
+D:\Facultate\Criptografie\ShiftByN\ShiftByN\obj\Debug\ShiftByN.pdb
