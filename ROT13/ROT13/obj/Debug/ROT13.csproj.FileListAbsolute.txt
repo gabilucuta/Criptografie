@@ -1,0 +1,8 @@
+D:\Facultate\Criptografie\ROT13\ROT13\bin\Debug\ROT13.exe.config
+D:\Facultate\Criptografie\ROT13\ROT13\bin\Debug\ROT13.exe
+D:\Facultate\Criptografie\ROT13\ROT13\bin\Debug\ROT13.pdb
+D:\Facultate\Criptografie\ROT13\ROT13\obj\Debug\ROT13.csproj.AssemblyReference.cache
+D:\Facultate\Criptografie\ROT13\ROT13\obj\Debug\ROT13.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Criptografie\ROT13\ROT13\obj\Debug\ROT13.csproj.CoreCompileInputs.cache
+D:\Facultate\Criptografie\ROT13\ROT13\obj\Debug\ROT13.exe
+D:\Facultate\Criptografie\ROT13\ROT13\obj\Debug\ROT13.pdb
